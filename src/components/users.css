@@ -1,0 +1,28 @@
+.UserList_Containers {
+      
+}
+.user-list {
+    
+    width: 500px;
+    height: 50px;
+    margin: 15px 20px; 
+    background: #e3dcdc;   
+    border-radius: 5px;
+}
+.UserList_Containers h2{
+    text-align: center;
+    padding-top: 15px;
+    
+}
+.user-list-box a {
+    text-decoration: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 23px;
+    margin-left: -46px;
+    color: black;
+}
+.user-list-box{
+    list-style-type: none;
+}

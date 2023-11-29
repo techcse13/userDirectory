@@ -1,0 +1,16 @@
+
+.clockDropDown-box{
+    display: flex;
+    justify-content: space-between;
+    padding: 13px;
+}
+.country-clock {
+    display: flex;
+    justify-content: space-evenly;
+}
+.timer-box{
+    background: #9191bf;
+    padding: 5px;
+    width: 70px;
+
+}

@@ -1,0 +1,37 @@
+.post-box {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.post-list-box {
+    display: flex;
+    flex-wrap: wrap;
+}
+.post-list-box h3{
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap;
+}
+.post-list-box p{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.post-list { 
+    
+    margin: 15px 10px;
+    border: 1px solid;
+    background: #edebeb;
+    border-radius: 5px;
+    width: 11%;
+    height: 100px;
+    text-overflow:ellipsis
+}
+.popup-box  h2{
+    width: 11%;
+}
+.profile-name {
+    display: flex;
+    justify-content: center;
+
+}
